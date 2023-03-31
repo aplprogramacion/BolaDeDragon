@@ -13,7 +13,7 @@ Para crear esta aplicación primero es crear un proyecto en empy compose activit
 
 Para los cambios de imágenes y textos creamos otra función, donde creamos dos variables para el manejo de eventos y utilizamos when como condición para el evento de cambio de pantallas, creando una lógica lineal entre estas.
 
-La mayor parte del codigo esta comentado para facilitar la lectura y comprensión.:)
+La mayor parte del codigo esta comentado para facilitar la lectura y comprensión.:grinning:
 
 # Requisitos previos
 Poder crear un diseño simple de la IU en Compose con elementos de imagen y texto que admiten composición
