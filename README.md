@@ -1,5 +1,9 @@
 # BolaDeDragon
-# App donde podemos leer la historia de el protagonista de dragon ball y conocer sus distintas tecnicas de combate
+# Descripción general de la App
+Es una aplicacion simple donde vamos cambiando entre pantallas para conocer la historia del protagonista de dragon ball.
+# Funcionamiento de la App
+En la pantalla de inicio nos aparecera un titulo con una imagen y la historia del personaje,
+solo debemos hacer click en la imagen para ir cambiando entre pantallas y conocer las distintas técnicas de lucha de este.
 ![This is an image](https://github.com/aplprogramacion/BolaDeDragon/blob/master/bola%20de%20dragon.png)
 
 # App creada con jetpack Compose
