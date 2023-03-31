@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">BolaDeDragon</string>
+
+    //Goku
+    <string name="goku">Goku Saiyayin</string>
+    <string name="gokukaioken">Goku Técnica Kaito</string>
+    <string name="gokufase1">Goku Super Saiyayin Fase 1</string>
+    <string name="gokufase2">Goku Super Saiyayin Fase 2</string>
+    <string name="gokufase3">Goku Super Saiyayin Fase 3</string>
+    <string name="gokufase4">Goku Super Saiyayin Fase 4</string>
+    <string name="gokufasedios">Goku Super Saiyayin Fase Dios</string>
+    <string name="gokublue">Goku Super Saiyayin Blue</string>
+    <string name="gokuultrainstinto">Goku Técnica Ultra Instinto</string>
+
+    //Historia de Goku
+    <string name="gokuhistory">Goku cuando es un bebé, es enviado a la Tierra desde el Planeta Vegeta antes de que fuera destruido. Fue encontrado por un anciano llamado Son Gohan, quien le enseñó artes marciales y lo entrenó en el uso de la técnica de la Kamehameha.
+Después de la muerte de su abuelo, Goku comienza a buscar las siete Bolas de Dragón para poder invocar al dragón Shenlong y pedirle un deseo.
+Se entrena, lucha para mejorar sus habilidades, proteger a sus amigos y al mundo de diversos enemigos.
+También descubre su origen como Saiyajin, una raza de guerreros extraterrestres, y aprende a transformarse en diferentes niveles de Super Saiyajin, aumentando su fuerza y velocidad.
+Después de muchas aventuras y batallas, Se convierte en el guerrero más fuerte del universo y finalmente alcanza el título de "Guerrero Legendario".</string>
+
+    //goku kaioken
+    <string name="gokukaiokenhistory">La técnica del Kaioken es una habilidad especial de Goku que se muestra por primera vez durante su entrenamiento con el Rey Kaio en el planeta del mismo nombre. Esta técnica permite a Goku aumentar temporalmente su fuerza y velocidad, multiplicando su poder de combate.</string>
+    //goku fase 1
+    <string name="gokufase1history">En esta primera fase, su cabello se vuelve dorado y sus ojos se tornan verdes. Su poder y velocidad aumentan drásticamente, lo que le permite superar a Freezer en combate.
+Goku describe esta transformación como una "leyenda" entre los Saiyajin, ya que se cree que solo se puede alcanzar en momentos de gran ira y desesperación. Sin embargo, con el tiempo, Goku y otros personajes logran controlar y dominar esta transformación.</string>
+    //goku fase 2
+    <string name="gokufase2history">La transformación en Super Saiyajin 2 se caracteriza por un aumento aún mayor en la musculatura del cuerpo, así como un aumento en el tamaño y el erizado del cabello dorado. Además, el aura que rodea al personaje se vuelve más intensa y eléctrica.
+Esta transformación se logra a través de una mayor intensidad emocional y un mayor control del ki que la transformación de Super Saiyajin normal. Además, para alcanzar este estado, el Saiyajin debe tener un nivel de energía más elevado que el que se requiere para la transformación en Super Saiyajin.</string>
+    //goku fase 3
+    <string name="gokufase3history">La transformación en Super Saiyajin 3 se caracteriza por un cambio drástico en el aspecto del Saiyajin. El cabello dorado crece hasta la cintura y se eriza aún más, mientras que las cejas desaparecen y la musculatura del cuerpo se expande. Además, el aura que rodea al personaje se vuelve aún más intensa y eléctrica que en la transformación de Super Saiyajin 2.
+Esta transformación requiere una cantidad masiva de energía y un control perfecto del ki. De hecho, se necesita un nivel de energía tan alto que incluso un Saiyajin como Goku, que es conocido por su gran reserva de energía, solo puede mantener esta forma durante unos pocos minutos antes de agotarse.</string>
+    //goku fase 4
+    <string name="gokufase4history">Super Saiyajin Fase 4 es el resultado de una fusión entre un Saiyajin en su forma de Ozaru dorado y su forma humana. Para lograr esta transformación, el Saiyajin debe poseer una cola y transformarse en Ozaru durante un eclipse lunar. Luego, debe recuperar su forma humana y controlar su ki para transformarse en Super Saiyajin mientras mantiene su aspecto de Ozaru.
+La transformación en Super Saiyajin Fase 4 se caracteriza por el cabello largo y oscuro, una musculatura aún mayor que la de las transformaciones anteriores, y un pelaje rojo que cubre el cuerpo excepto por el pecho y el abdomen. Además, la cola se vuelve más larga y prensil, y el aura que rodea al personaje es de un color rojo oscuro</string>
+    //goku fase dios
+    <string name="gokufasedioshistory">cinco Saiyajin puros deben unir su energía y transferirla a un sexto Saiyajin para que éste se transforme en Super Saiyajin Dios. En este estado, el Saiyajin obtiene un aspecto más delgado y ágil, con el cabello rojo y los ojos verdes brillantes. También posee un aura roja y azul que lo rodea.
+La transformación en Super Saiyajin Dios otorga al personaje un enorme aumento de poder, lo que le permite luchar contra enemigos increíblemente poderosos. Además, a diferencia de otras transformaciones de Super Saiyajin, esta forma no agota el ki del personaje, lo que le permite mantenerla durante largos períodos de tiempo.</string>
+    //goku blue
+    <string name="gokubluehistory">La forma de Super Saiyajin Blue se logra al combinar el poder de la transformación en Super Saiyajin Dios con la transformación en Super Saiyajin. El resultado es un poder mucho mayor que el de Super Saiyajin Dios, pero con un aspecto similar al de Super Saiyajin.
+El cabello del personaje se vuelve de un tono azul brillante, mientras que los ojos se mantienen en un tono azul oscuro. El aura que rodea al personaje es de un color azul claro y destella con electricidad</string>
+    //goku ultra instinto
+    <string name="gokuultrainstintohistory">La técnica de Ultra Instinto se divide en dos partes: la defensa y el ataque. En su forma defensiva, el usuario es capaz de esquivar y contrarrestar los ataques de su oponente sin siquiera pensar en ello, ya que su cuerpo reacciona automáticamente de acuerdo a sus instintos. En su forma ofensiva, el usuario es capaz de atacar a su oponente con una velocidad y fuerza increíblemente altas, ya que su cuerpo está completamente sincronizado con su mente.
+La forma de Ultra Instinto se caracteriza por el cabello plateado y los ojos grises o plateados. El aura que rodea al personaje es de un color blanco brillante y destella con electricidad.</string>
+
+</resources>
