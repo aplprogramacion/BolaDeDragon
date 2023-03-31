@@ -9,7 +9,7 @@ solo debemos hacer click en la imagen para ir cambiando entre pantallas y conoce
 
 # App creada con jetpack Compose
 
-Para crear esta aplicación primero es crear un proyecto en empy compose activity.Priemro introduje las imágenes en drawable, después creamos las strings que vamos a utilizar en la app, creamos una función donde irá la vista de los textos y las imágenes, utilizando Column para generar una vista vertical de los componentes. Creamos varios ID para que estas vayan cambiando en función de la pantalla en la que nos encontremos, añadimos un evento para que al pulsar en las imágenes nos cambie a la siguiente pantalla.
+Para crear esta aplicación primero es crear un proyecto en empy compose activity.Primero introduje las imágenes en drawable, después creamos las strings que vamos a utilizar en la app, creamos una función donde irá la vista de los textos y las imágenes, utilizando Column para generar una vista vertical de los componentes. Creamos varios ID para que estas vayan cambiando en función de la pantalla en la que nos encontremos, añadimos un evento para que al pulsar en las imágenes nos cambie a la siguiente pantalla.
 
 Para los cambios de imágenes y textos creamos otra función, donde creamos dos variables para el manejo de eventos y utilizamos when como condición para el evento de cambio de pantallas, creando una lógica lineal entre estas.
 
