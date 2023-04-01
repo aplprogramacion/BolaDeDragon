@@ -1,19 +1,18 @@
 # BolaDeDragon
 # Descripción general de la App
-Es una aplicacion simple donde vamos cambiando entre pantallas para conocer la historia del protagonista de dragon ball.
-# Funcionamiento de la App
-En la pantalla de inicio nos aparecera un titulo con una imagen y la historia del personaje,
-solo debemos hacer click en la imagen para ir cambiando entre pantallas y conocer las distintas técnicas de lucha de este.
+El código es una aplicación Android que muestra información sobre el personaje Goku de la serie Dragon Ball. El archivo contiene dos funciones principales: MainActivity y GokuTextAndImage.
+
+La clase MainActivity es la actividad principal de la aplicación y se encarga de establecer el contenido de la pantalla. La función setContent se utiliza para establecer el contenido de la pantalla en el GokuApp componible, que se encarga de mostrar la información del personaje Goku.
+
+La función GokuTextAndImage es un componible que muestra una imagen y un texto relacionado con el personaje Goku. La imagen se muestra en un marco de imagen redondeado y se puede hacer clic en ella. El texto se muestra en la parte inferior de la imagen y describe la imagen.
+
+El componible GokuApp es la función principal que se llama en setContent. En esta función se declaran dos variables mutables currentGoku y changeImage, que se utilizan para controlar la imagen que se muestra. La función utiliza un when para cambiar entre diferentes imágenes y textos que se muestran utilizando el componible GokuTextAndImage.
+
+En general, la aplicación muestra información sobre el personaje Goku y le permite al usuario interactuar con la imagen haciendo clic en ella.
+
 # Imagenes de la App
 ![This is an image](https://github.com/aplprogramacion/BolaDeDragon/blob/master/bola%20de%20dragon.png)
 
-# App creada con jetpack Compose
-
-Para crear esta aplicación primero es crear un proyecto en empy compose activity.Primero introduje las imágenes en drawable, después creamos las strings que vamos a utilizar en la app, creamos una función donde irá la vista de los textos y las imágenes, utilizando Column para generar una vista vertical de los componentes. Creamos varios ID para que estas vayan cambiando en función de la pantalla en la que nos encontremos, añadimos un evento para que al pulsar en las imágenes nos cambie a la siguiente pantalla.
-
-Para los cambios de imágenes y textos creamos otra función, donde creamos dos variables para el manejo de eventos y utilizamos when como condición para el evento de cambio de pantallas, creando una lógica lineal entre estas.
-
-La mayor parte del codigo esta comentado para facilitar la lectura y comprensión.:grinning:
 
 # Requisitos previos
 Poder crear un diseño simple de la IU en Compose con elementos de imagen y texto que admiten composición
